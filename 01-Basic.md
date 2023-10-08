@@ -63,3 +63,6 @@ DROP COLUMN email; // => remove column email;
 ```
 
 # ROW COMMAND
+
+
+
